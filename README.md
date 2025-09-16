@@ -1,56 +1,62 @@
-# ¡Hola! Soy Maria Clelia Mosto 👋
+<p align="center">
+  <img src="https://i.imgur.com/X0KbA9s.png" alt="Banner Maria Clelia Mosto" />
+</p>
 
-🎓 Bióloga | 📊 Data Analyst | 🧠 Investigadora CONICET  
-👩‍💻 Aprendiendo y aplicando Python, SQL, QA y Visualización de Datos  
-🕹️ Desarrolladora Unity amateur | 💼 Explorando el mundo freelance
+# Hi there! I'm Maria Clelia Mosto 👋
 
----
-
-## 🔎 Sobre mí
-
-Me formé como bióloga y doctora en ciencias, y hoy combino mis habilidades científicas con el análisis de datos, automatización, QA y herramientas digitales.
-
-En los últimos años trabajé con:
-- Bases morfométricas y filogenéticas
-- Scripts de análisis en R y Python
-- Automatización de CRM y dashboards
-- Desarrollo de videojuegos en Unity 2D
-
-Estoy en transición hacia proyectos tech, freelance y colaborativos.
+🎓 Ph.D. in Biology | 📊 Data Analyst | 🧠 Researcher at CONICET  
+👩‍💻 Learning and applying Python, SQL, QA and Data Visualization  
+🕹️ Unity Game Developer (Junior) | 💼 Exploring freelance & remote tech work
 
 ---
 
-## 🧪 Proyectos destacados
+## 🔍 About Me
 
-🎮 **Unity Game – Fruta Ninja Adventure**  
-Juego de plataformas 2D con niveles, trampas, frutas, menú interactivo, sonido y scripts personalizados.  
-🔗 [Ver demo en video](#) | 💻 [Ver código en este repo](#)
+I have a scientific background with over 10 years of experience in morphological data analysis, research, and teaching. Currently transitioning into tech, combining my biology expertise with programming, data science, and automation.
 
-📊 **Análisis morfométrico + filogenético**  
-Visualización de datos anatómicos en R, PCA, señal filogenética, modelos PGLS.  
-🦅 Proyecto aplicado a aves rapaces.
-
-📦 **QA & Automatización**  
-Scripts de testing en Zephyr/Jira, pruebas funcionales manuales, generación de reportes, seguimiento de bugs.
+I’m passionate about:
+- Data-driven projects  
+- Visualization and storytelling  
+- Scientific computing and QA  
+- Remote and freelance collaboration  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🎮 Featured Projects
 
-**Lenguajes y análisis:** `R`, `Python`, `SQL`  
-**Data viz:** `Power BI`, `Looker Studio`, `Excel avanzado`, `ggplot2`  
-**QA y gestión:** `Jira`, `Zephyr`, `Trello`, `ClickUp`  
-**Diseño y contenido:** `Canva`, `CorelDRAW`, `Photoshop`  
-**Dev & otros:** `HTML`, `CSS`, `Bootstrap`, `Unity`, `Arduino`
+### Unity Game – *Fruta Ninja Adventure*  
+A 2D platformer with progressive levels, sound effects, traps, and interactive menus.  
+Built in Unity as part of the Unity Specialization course.  
+🎥 [Watch Gameplay Video](https://drive.google.com/your_video_link_here)  
+💻 [View Game Repository](https://github.com/cleliamosto/unity-game-folder)
+
+### Morphometric + Phylogenetic Analysis  
+Bird pelvic morphology study using R (geomorph, ape, phytools), PGLS models, and custom scripts.  
+🦅 Researcher at CONICET (Argentina)
+
+### QA & Automation Practice  
+Basic test plans, bug reporting, Jira + Zephyr usage.  
+Simulated testing workflows and reports.
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tools & Technologies
+
+- **Languages:** R, Python, SQL  
+- **Data Viz:** Power BI, Looker Studio, Excel, ggplot2  
+- **QA & Workflow:** Jira, Zephyr, Trello, ClickUp  
+- **Design:** Canva, CorelDRAW, Photoshop  
+- **Development:** HTML, CSS, Bootstrap, Unity, Arduino  
+- **Office & Docs:** Google Workspace, QuickBooks
+
+---
+
+## 📫 Contact
 
 📧 cleliamosto@gmail.com  
-🔗 [ResearchGate](https://www.researchgate.net/profile/M_Mosto)  
-🔗 [LinkedIn](#) *(agregalo cuando esté listo)*
+🔗 [LinkedIn](https://www.linkedin.com/in/cleliamosto/)  
+🔗 [ResearchGate](https://www.researchgate.net/profile/M_Mosto)
 
 ---
 
-### 🌟 ¡Gracias por visitar mi perfil!
+### 🌟 Thanks for visiting my profile!
