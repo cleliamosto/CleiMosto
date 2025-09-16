@@ -5,19 +5,20 @@
 </p>
 
 
-# Hi there! I'm Maria Clelia Mosto 👋
+<h1 align="center">Hi there! I'm Maria Clelia Mosto 👋</h1>
 
 🎓 Ph.D. in Biology | 📊 Data Analyst | 🧠 Researcher at CONICET  
 👩‍💻 Learning and applying Python, SQL, QA and Data Visualization  
-🕹️ Unity Game Developer (Junior) | 💼 Exploring freelance & remote tech work
+🕹️ Unity Game Developer (Junior) | 💼 Exploring freelance & remote tech work  
 
 ---
 
 ## 🔍 About Me
 
-I have a scientific background with over 10 years of experience in morphological data analysis, research, and teaching. Currently transitioning into tech, combining my biology expertise with programming, data science, and automation.
+I have a scientific background with over 10 years of experience in morphological data analysis, biomechanics, and phylogenetics of birds.  
+Currently transitioning into tech, combining my biology expertise with programming, data science, and automation.  
 
-I’m passionate about:
+💡 I’m passionate about:  
 - Data-driven projects  
 - Visualization and storytelling  
 - Scientific computing and QA  
@@ -25,32 +26,79 @@ I’m passionate about:
 
 ---
 
-## 🎮 Featured Projects
+## 🧪 Case Study Gallery
 
-### Unity Game – *Fruta Ninja Adventure*  
-A 2D platformer with progressive levels, sound effects, traps, and interactive menus.  
-Built in Unity as part of the Unity Specialization course.  
-🎥 [Watch Gameplay Video](https://drive.google.com/your_video_link_here)  
-💻 [View Game Repository](https://github.com/cleliamosto/unity-game-folder)
+<table>
+  <tr>
+    <!-- Froggy Ninja -->
+    <td width="33%" align="center">
+      <a href="https://github.com/cleliamosto/unity-game-folder">
+        <img src="https://i.imgur.com/fNsR9k1.jpeg" width="100%" alt="Froggy Ninja Game"/>
+      </a>
+      <p>🕹️ <strong>Unity Game – Froggy Ninja</strong><br/>
+      <em>2D platformer with secret level, fruit counter and sound FX.</em></p>
+    </td>
 
-### Morphometric + Phylogenetic Analysis  
-Bird pelvic morphology study using R (geomorph, ape, phytools), PGLS models, and custom scripts.  
-🦅 Researcher at CONICET (Argentina)
+    <!-- RockBuster -->
+    <td width="33%" align="center">
+      <a href="https://github.com/cleliamosto/rockbuster-analysis">
+        <img src="https://i.imgur.com/qsnQXh9.jpg" width="100%" alt="RockBuster Project"/>
+      </a>
+      <p>🎬 <strong>RockBuster Analysis</strong><br/>
+      <em>Strategy for a company moving from DVD rental to streaming.</em></p>
+    </td>
 
-### QA & Automation Practice  
-Basic test plans, bug reporting, Jira + Zephyr usage.  
-Simulated testing workflows and reports.
+    <!-- Influenza Dashboard -->
+    <td width="33%" align="center">
+      <a href="https://public.tableau.com/app/profile/clelia.mosto/viz/influenza-dashboard">
+        <img src="https://i.imgur.com/FjD6zpE.png" width="100%" alt="Influenza Dashboard"/>
+      </a>
+      <p>📊 <strong>Influenza Dashboard</strong><br/>
+      <em>Staffing forecast during an influenza outbreak.</em></p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Morphometric Study -->
+    <td width="33%" align="center">
+      <a href="https://www.researchgate.net/publication/XYZ">
+        <img src="https://i.imgur.com/M2gNZhO.png" width="100%" alt="Morphometric Study"/>
+      </a>
+      <p>🧬 <strong>Morphometric Analysis</strong><br/>
+      <em>Bird pelvis shape & phylogenetic signal with R.</em></p>
+    </td>
+
+    <!-- QA Testing -->
+    <td width="33%" align="center">
+      <a href="https://github.com/cleliamosto/qa-testing-project">
+        <img src="https://i.imgur.com/9K6TDLq.png" width="100%" alt="QA Testing Project"/>
+      </a>
+      <p>🧪 <strong>QA Workflow Simulation</strong><br/>
+      <em>Manual testing with Jira & Zephyr. Bug tracking & test reports.</em></p>
+    </td>
+
+    <!-- Futures Bot -->
+    <td width="33%" align="center">
+      <a href="https://github.com/cleliamosto/futures-bot">
+        <img src="https://i.imgur.com/W5D3L1j.png" width="100%" alt="Futures Bot"/>
+      </a>
+      <p>📈 <strong>Futures Trading Bot</strong><br/>
+      <em>Python bot for micro e-mini S&P simulation and entry signals.</em></p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** R, Python, SQL  
-- **Data Viz:** Power BI, Looker Studio, Excel, ggplot2  
-- **QA & Workflow:** Jira, Zephyr, Trello, ClickUp  
-- **Design:** Canva, CorelDRAW, Photoshop  
-- **Development:** HTML, CSS, Bootstrap, Unity, Arduino  
-- **Office & Docs:** Google Workspace, QuickBooks
+**Languages**: R, Python, SQL  
+**Data Viz**: Power BI, Looker Studio, Excel, ggplot2  
+**QA & Workflow**: Jira, Zephyr, Trello, ClickUp  
+**Design**: Canva, CorelDRAW, Photoshop  
+**Development**: HTML, CSS, Bootstrap, Unity, Arduino  
+**Office & Docs**: Google Workspace, QuickBooks  
 
 ---
 
@@ -58,8 +106,8 @@ Simulated testing workflows and reports.
 
 📧 cleliamosto@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/cleliamosto/)  
-🔗 [ResearchGate](https://www.researchgate.net/profile/M_Mosto)
+🔗 [ResearchGate](https://www.researchgate.net/profile/M_Mosto)  
 
 ---
 
-### 🌟 Thanks for visiting my profile!
+<p align="center">🌟 Thanks for visiting my profile! 🌟</p>
