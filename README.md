@@ -1,5 +1,7 @@
+
 <p align="center">
-  <img src="https://i.imgur.com/X0KbA9s.png" alt="Banner Maria Clelia Mosto" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c11a140-44d7-4d83-9383-9743c745e84e" />
+
 </p>
 
 # Hi there! I'm Maria Clelia Mosto 👋
