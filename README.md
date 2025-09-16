@@ -107,7 +107,8 @@ Currently transitioning into tech, combining my biology expertise with programmi
 📧 cleliamosto@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/cleliamosto/)  
 🔗 [ResearchGate](https://www.researchgate.net/profile/M_Mosto)  
-🔗 [Notion](https://cleim.notion.site/MCM-249e11b0d3a980609229fa6eaeac5728) 
+🔗 [Notion](https://cleim.notion.site/MCM-249e11b0d3a980609229fa6eaeac5728)
+
 ---
 
 <p align="center">🌟 Thanks for visiting my profile! 🌟</p>
