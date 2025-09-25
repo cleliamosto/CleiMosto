@@ -62,23 +62,7 @@ Currently transitioning into tech, combining my biology expertise with programmi
       <em>Bird pelvis shape & phylogenetic signal with R.</em></p>
     </td>
 
-    <!-- QA Testing -->
-    <td width="33%" align="center">
-      <a href="https://github.com/cleliamosto/qa-testing-project">
-        <img src="https://i.imgur.com/9K6TDLq.png" width="100%" alt="QA Testing Project"/>
-      </a>
-      <p>🧪 <strong>QA Workflow Simulation</strong><br/>
-      <em>Manual testing with Jira & Zephyr. Bug tracking & test reports.</em></p>
-    </td>
-
-    <!-- Futures Bot -->
-    <td width="33%" align="center">
-      <a href="https://github.com/cleliamosto/futures-bot">
-        <img src="https://i.imgur.com/W5D3L1j.png" width="100%" alt="Futures Bot"/>
-      </a>
-      <p>📈 <strong>Futures Trading Bot</strong><br/>
-      <em>Python bot for micro e-mini S&P simulation and entry signals.</em></p>
-    </td>
+    
   </tr>
 </table>
 
