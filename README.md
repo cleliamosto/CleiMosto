@@ -38,24 +38,18 @@ Currently transitioning into tech, combining my biology expertise with programmi
       <p>🕹️ <strong>Unity Game – Froggy Ninja</strong><br/>
       <em>2D platformer with secret level, fruit counter and sound FX.</em></p>
     </td>
+    
+        
+<!-- Arduino IoT Door Lock -->
+<td width="33%" align="center">
+  <a href="https://github.com/cleliamosto/CleiMosto/blob/main/doorlock_telegram.ino">
+    <img src="https://i.imgur.com/q1n04mN.png" width="100%" alt="Arduino IoT Door Lock"/>
+  </a>
+  <p>🔐 <strong>Arduino IoT Door Lock</strong><br/>
+  <em>Smart lock with ESP32, servo, reed switch and Telegram Bot alerts.</em></p>
+</td>
 
-    <!-- RockBuster -->
-    <td width="33%" align="center">
-      <a href="https://github.com/cleliamosto/rockbuster-analysis">
-        <img src="https://i.imgur.com/qsnQXh9.jpg" width="100%" alt="RockBuster Project"/>
-      </a>
-      <p>🎬 <strong>RockBuster Analysis</strong><br/>
-      <em>Strategy for a company moving from DVD rental to streaming.</em></p>
-    </td>
 
-    <!-- Influenza Dashboard -->
-    <td width="33%" align="center">
-      <a href="https://public.tableau.com/app/profile/clelia.mosto/viz/influenza-dashboard">
-        <img src="https://i.imgur.com/FjD6zpE.png" width="100%" alt="Influenza Dashboard"/>
-      </a>
-      <p>📊 <strong>Influenza Dashboard</strong><br/>
-      <em>Staffing forecast during an influenza outbreak.</em></p>
-    </td>
   </tr>
 
   <tr>
