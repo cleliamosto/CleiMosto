@@ -33,6 +33,7 @@ Currently transitioning into tech, combining my biology expertise with programmi
     <!-- Froggy Ninja -->
     <td width="33%" align="center">
       <a href="https://github.com/cleliamosto/unity-game-folder">
+
         <img src="https://i.imgur.com/fNsR9k1.jpeg" width="100%" alt="Froggy Ninja Game"/>
       </a>
       <p>🕹️ <strong>Unity Game – Froggy Ninja</strong><br/>
@@ -42,7 +43,7 @@ Currently transitioning into tech, combining my biology expertise with programmi
         
 <!-- Arduino IoT Door Lock -->
 <td width="33%" align="center">
-  <a href="https://github.com/cleliamosto/CleiMosto/blob/main/doorlock_telegram.ino">
+  <a href="![arduino 2](https://github.com/user-attachments/assets/94032078-b1c5-4f92-820c-f22ab533e75d)">
     <img src="https://i.imgur.com/q1n04mN.png" width="100%" alt="Arduino IoT Door Lock"/>
   </a>
   <p>🔐 <strong>Arduino IoT Door Lock</strong><br/>
