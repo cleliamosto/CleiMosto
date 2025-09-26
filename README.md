@@ -33,22 +33,22 @@ Currently transitioning into tech, combining my biology expertise with programmi
     <!-- Froggy Ninja -->
     <td width="33%" align="center">
       <a href="https://github.com/cleliamosto/unity-game-folder">
-
         <img src="https://i.imgur.com/fNsR9k1.jpeg" width="100%" alt="Froggy Ninja Game"/>
       </a>
       <p>🕹️ <strong>Unity Game – Froggy Ninja</strong><br/>
       <em>2D platformer with secret level, fruit counter and sound FX.</em></p>
     </td>
-    
-        
-<!-- Arduino IoT Door Lock -->
-<td width="33%" align="center">
-  <a href="https://github.com/cleliamosto/CleiMosto/blob/main/doorlock_telegram.ino">
-    <img src="https://github.com/user-attachments/assets/94032078-b1c5-4f92-820c-f22ab533e75d" width="100%" alt="Arduino IoT Door Lock"/>
-  </a>
-  <p>🔐 <strong>Arduino IoT Door Lock</strong><br/>
-  <em>Smart lock with ESP32, servo, reed switch and Telegram Bot alerts.</em></p>
-</td>
+
+  <td width="33%" align="center">
+      <a href="https://github.com/cleliamosto/CleiMosto/blob/main/doorlock_telegram.ino">
+        <img src="https://github.com/user-attachments/assets/94032078-b1c5-4f92-820c-f22ab533e75d" width="100%" alt="Arduino IoT Door Lock"/>
+      </a>
+      <p>🔐 <strong>Arduino IoT Door Lock</strong><br/>
+      <em>Smart lock with ESP32, servo, reed switch and Telegram Bot alerts.</em></p>
+    </td>
+  </tr>
+</table>
+
 
 
   </tr>
