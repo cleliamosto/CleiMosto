@@ -30,14 +30,15 @@ Currently transitioning into tech, combining my biology expertise with programmi
 
 <table>
   <tr>
-    <!-- Froggy Ninja -->
-    <td width="33%" align="center">
-      <a href="https://github.com/cleliamosto/unity-game-folder">
-        <img src="https://i.imgur.com/fNsR9k1.jpeg" width="100%" alt="Froggy Ninja Game"/>
-      </a>
-      <p>🕹️ <strong>Unity Game – Froggy Ninja</strong><br/>
-      <em>2D platformer with secret level, fruit counter and sound FX.</em></p>
-    </td>
+  <!-- Unity Froggy Ninja -->
+<td width="33%" align="center">
+  <a href="https://github.com/cleliamosto/unity-froggy-ninja">
+    <img src="https://i.imgur.com/fNsR9k1.jpeg" width="100%" alt="Unity Froggy Ninja"/>
+  </a>
+  <p>🕹️ <strong>Unity Game – Froggy Ninja</strong><br/>
+  <em>2D platformer with secret level, fruit counter and sound FX.</em></p>
+</td>
+
 
   <td width="33%" align="center">
       <a href="https://github.com/cleliamosto/CleiMosto/blob/main/doorlock_telegram.ino">
