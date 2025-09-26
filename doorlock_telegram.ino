@@ -23,8 +23,8 @@ const char* password = "*****";
 // ========================
 // CREDENCIALES DE TELEGRAM
 // ========================
-String botToken = "8055049592:AAEw6VNt1W2y25qzrg4JsHXv2ITNkct0ndQ";  // Token real
-String chatID   = "8422986565";  // ID de chat real
+String botToken = "805***592:****";  // Token real
+String chatID   = "8422***565";  // ID de chat real
 
 // ========================
 // CONFIGURACION DE TFT
