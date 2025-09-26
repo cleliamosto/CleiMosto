@@ -43,8 +43,8 @@ Currently transitioning into tech, combining my biology expertise with programmi
         
 <!-- Arduino IoT Door Lock -->
 <td width="33%" align="center">
-  <a href="![arduino 2](https://github.com/user-attachments/assets/94032078-b1c5-4f92-820c-f22ab533e75d)">
-    <img src="https://i.imgur.com/q1n04mN.png" width="100%" alt="Arduino IoT Door Lock"/>
+  <a href="https://github.com/cleliamosto/CleiMosto/blob/main/doorlock_telegram.ino">
+    <img src="https://github.com/user-attachments/assets/94032078-b1c5-4f92-820c-f22ab533e75d" width="100%" alt="Arduino IoT Door Lock"/>
   </a>
   <p>🔐 <strong>Arduino IoT Door Lock</strong><br/>
   <em>Smart lock with ESP32, servo, reed switch and Telegram Bot alerts.</em></p>
