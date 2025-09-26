@@ -52,23 +52,6 @@ Currently transitioning into tech, combining my biology expertise with programmi
 
 
 
-  </tr>
-
-  <tr>
-    <!-- Morphometric Study -->
-    <td width="33%" align="center">
-      <a href="https://www.researchgate.net/publication/XYZ">
-        <img src="https://i.imgur.com/M2gNZhO.png" width="100%" alt="Morphometric Study"/>
-      </a>
-      <p>🧬 <strong>Morphometric Analysis</strong><br/>
-      <em>Bird pelvis shape & phylogenetic signal with R.</em></p>
-    </td>
-
-    
-  </tr>
-</table>
-
-
 ---
 
 ## 🛠️ Tools & Technologies
